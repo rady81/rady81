@@ -26,8 +26,8 @@ Serverless architecture with idempotency and failure recovery.
 👉 https://github.com/rady81/aws-lambda-serverless-patterns
 
 ### 4️⃣ Spring AI + LLM Integration
-Secure AI integration inside microservices ecosystem.
-👉 https://github.com/rady81/Spring-Ai
+GenAI utility service that estimates LLMs token usage.
+👉 https://github.com/rady81/llm-context-window
 
 ## 🏗 Architecture Focus
 
@@ -36,6 +36,7 @@ Secure AI integration inside microservices ecosystem.
 - Distributed transaction handling (Saga, Outbox)
 - Observability (Actuator, logs, correlation IDs)
 - AWS deployments (EC2, Lambda, SQS)
+- LLMs, RAG, Vector-search
 
 ## 🛠 Run My Projects Locally
 
