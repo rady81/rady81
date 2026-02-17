@@ -1,5 +1,8 @@
 # Hi, I'm Mohan 👋
 
+I build robust backend systems using Java, Spring Boot, microservices, custom online apps, Kafka and AWS — and I’m actively exploring Generative AI integration in modern microservices architectures.
+
+
 - 📫 How to reach me: ... 81.mohan@gmail.com
 
 Java Full-Stack Engineer | Spring Boot | Kafka | AWS | Microservices | Distributed Systems | Spring AI | LLMs | RAG | Vector Store
